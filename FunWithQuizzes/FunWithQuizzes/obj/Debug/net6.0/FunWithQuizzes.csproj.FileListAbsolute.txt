@@ -1,0 +1,15 @@
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\bin\Debug\net6.0\FunWithQuizzes.exe
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\bin\Debug\net6.0\FunWithQuizzes.deps.json
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\bin\Debug\net6.0\FunWithQuizzes.runtimeconfig.json
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\bin\Debug\net6.0\FunWithQuizzes.dll
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\bin\Debug\net6.0\FunWithQuizzes.pdb
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\obj\Debug\net6.0\FunWithQuizzes.csproj.AssemblyReference.cache
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\obj\Debug\net6.0\FunWithQuizzes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\obj\Debug\net6.0\FunWithQuizzes.AssemblyInfoInputs.cache
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\obj\Debug\net6.0\FunWithQuizzes.AssemblyInfo.cs
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\obj\Debug\net6.0\FunWithQuizzes.csproj.CoreCompileInputs.cache
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\obj\Debug\net6.0\FunWithQuizzes.dll
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\obj\Debug\net6.0\refint\FunWithQuizzes.dll
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\obj\Debug\net6.0\FunWithQuizzes.pdb
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\obj\Debug\net6.0\FunWithQuizzes.genruntimeconfig.cache
+C:\Users\mendo\LaunchCode\c#\Studios\ch7studio\FunWithQuizzes\FunWithQuizzes\obj\Debug\net6.0\ref\FunWithQuizzes.dll
